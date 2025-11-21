@@ -119,6 +119,15 @@
       text-align: center;
       padding: 120px 0;
     }
+
+        /* Hero Section Graduation */
+    .hero_tech {
+      background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
+                  url('https://gphotography1002.org/wp-content/uploads/2025/11/3096x515_Primary_Banner_Desktop_Ad_Apple_Brand_Awareness_AASP_1X-scaled.jpg') center/cover;
+      color: white;
+      text-align: center;
+      padding: 120px 0;
+    }
     .hero h1 {
       font-size: 3rem;
       font-weight: 700;
